@@ -11,8 +11,8 @@
 - [x] [Chapter 11 | 예외 처리](https://github.com/2025-cs-study/long-octopus-leg/blob/main/java/11_exception_handling/README.md)
 - [x] [Chapter 13 | 제너릭](https://github.com/2025-cs-study/2025-CS-Study/blob/main/java/13_generics/README.md)
 - [x] [Chapter 14 | 멀티 스레드](https://github.com/2025-cs-study/2025-CS-Study/blob/main/java/14_multi_thread/README.md)
-- [ ] [Chapter 17 | 스트림 요소 처리](https://github.com/2025-cs-study/2025-CS-Study/blob/main/java/17_stream_processing/README.md)
-- [ ] [Chapter 21 | 자바 21에서 강화된 언어 및 라이브러리](https://github.com/2025-cs-study/2025-CS-Study/blob/main/java/21_java21_features/README.md)
+- [x] [Chapter 17 | 스트림 요소 처리](https://github.com/2025-cs-study/2025-CS-Study/blob/main/java/17_stream_processing/README.md)
+- [x] [Chapter 21 | 자바 21에서 강화된 언어 및 라이브러리](https://github.com/2025-cs-study/2025-CS-Study/blob/main/java/21_java21_features/README.md)
 
 ## 참고 자료
 - `이것이 자바다(3판)`
