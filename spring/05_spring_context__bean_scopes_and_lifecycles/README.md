@@ -2,6 +2,5 @@
 
 ## 목차
 
-- [ ] []()
-- [ ] []()
-- [ ] []()
+- [x] [싱글톤 빈 스코프 사용](https://github.com/2025-cs-study/long-octopus-leg/blob/main/spring/05_spring_context__bean_scopes_and_lifecycles/5.1_singleton_bean_scope.md)
+- [x] [프로토타입 빈 스코프 사용](https://github.com/2025-cs-study/long-octopus-leg/blob/main/spring/05_spring_context__bean_scopes_and_lifecycles/5.2_prototype_bean_scope.md)
