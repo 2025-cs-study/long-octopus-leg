@@ -1,6 +1,6 @@
 # 1. JPA 소개
 
-- **ORM(Object-Relational Mapping) 프레임워크**는 객체와 관계형 데이터베이스 간의 차이(패러다임의 불일)를 중간에서 해결함.
+- **ORM(Object-Relational Mapping) 프레임워크**는 객체와 관계형 데이터베이스 간의 차이(패러다임의 불일치)를 중간에서 해결함.
 
 - **JPA(Java Persistence API)** 는 자바의 ORM 기술 표준임. 반복적인 CRUD SQL을 알아서 처리하고 실행 시점에 자동으로 SQL을 생성하여 실행함.
 
