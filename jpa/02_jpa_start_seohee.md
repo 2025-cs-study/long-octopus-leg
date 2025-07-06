@@ -8,7 +8,8 @@
 - **파일 URL**: `jdbc:h2:~/testdb`
 - **웹 콘솔**: `http://localhost:8080/h2-console`
 - 콘솔 화면
-  ![img.png](./img/02_01_seohee.png)
+
+<img src="./img/02_01_seohee.png" width=250px>
 
 ## 2.4 객체 매핑 시작
 
