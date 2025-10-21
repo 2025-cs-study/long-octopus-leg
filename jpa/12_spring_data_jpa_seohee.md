@@ -41,10 +41,6 @@
 ## 12.8 스프링 데이터 JPA가 사용하는 구현체
 - 개발자가 리포지토리 인터페이스만 정의하면, 스프링 데이터 JPA가 실행 시점에 프록시(Proxy) 기술을 사용하여 `SimpleJpaRepository`를 기반으로 한 구현 클래스를 동적으로 생성함.
 
-## 12.9 JPA 샵에 적용
-- (책의 예제 프로젝트에 적용하는 내용으로) 기존에 `EntityManager`를 직접 사용하던 리포지토리 코드를 스프링 데이터 JPA의 `JpaRepository` 인터페이스 기반으로 리팩토링하는 과정을 의미함.
-- 복잡한 동적 검색 로직은 Specifications(명세) 기능을 적용하여 개선할 수 있음.
-
 ## 12.10 스프링 데이터 JPA와 QueryDSL 통합
 - 스프링 데이터 JPA는 QueryDSL과 강력하게 통합되어, 타입에 안전한(type-safe) 동적 쿼리를 더욱 편리하게 작성할 수 있음.
 - **QueryDslPredicateExecutor**: `Predicate` (QueryDSL의 쿼리 조건)를 파라미터로 받아 실행할 수 있는 간단한 기능을 제공함.
