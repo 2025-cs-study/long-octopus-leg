@@ -15,7 +15,7 @@
 | 값 타입             | [🌸](09_value_type_seohee.md)                                  | [🌸](09_value_type_minju.md) |
 | 객체 지향 쿼리 언어      | [🌸](10_object_oriented_query_language_seohee.md)              | [🌸](10_object_oriented_query_language_minju.md) |
 | 스프링 데이터 JPA      | [🌸](12_spring_data_jpa_seohee.md)                             | [🌸](12_spring_data_jpa_minju.md) |
-| 웹 애플리케이션과 영속성 관리 | [🌱](13_web_application_and_persistence_management_seohee.md)  | [🌱](13_web_application_and_persistence_management_minju.md) |
-| 컬렉션과 부가 기능       | [🌱](14_collection_and_additional_features_seohee.md)          | [🌱](14_collection_and_additional_features_minju.md) |
-| 고급 주제와 성능 최적화    | [🌱](15_advanced_topics_and_performance_optimization_seohee.md) | [🌱](15_advanced_topics_and_performance_optimization_minju.md) |
-| 트랜잭션과 락, 2차 캐시   | [🌱](16_transaction_lock_and_second_level_cache_seohee.md)     | [🌱](16_transaction_lock_and_second_level_cache_minju.md) |
+| 웹 애플리케이션과 영속성 관리 | [🌸](13_web_application_and_persistence_management_seohee.md)  | [🌸](13_web_application_and_persistence_management_minju.md) |
+| 컬렉션과 부가 기능       | [🌸](14_collection_and_additional_features_seohee.md)          | [🌸](14_collection_and_additional_features_minju.md) |
+| 고급 주제와 성능 최적화    | [🌸](15_advanced_topics_and_performance_optimization_seohee.md) | [🌸](15_advanced_topics_and_performance_optimization_minju.md) |
+| 트랜잭션과 락, 2차 캐시   | [🌸](16_transaction_lock_and_second_level_cache_seohee.md)     | [🌸](16_transaction_lock_and_second_level_cache_minju.md) |
