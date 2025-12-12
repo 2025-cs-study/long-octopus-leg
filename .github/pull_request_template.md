@@ -13,8 +13,8 @@
 
 ## Contents
 
-- 
 - Closes #{Issues 번호}
+
 
 ## Reference
 
